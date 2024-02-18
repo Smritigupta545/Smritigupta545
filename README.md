@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/smrigupta123" target="blank"><img src="https://img.shields.io/twitter/follow/smrigupta123?logo=twitter&style=for-the-badge" alt="smrigupta123" /></a> </p>
 
-- 🔭 I’m currently learning about **Blockchain and DSA**
+- 🔭 I’m currently learning about **Web Frameworks for backend**
 
 - 👯 I’m looking to collaborate on **Projects as per my skillset**
 
